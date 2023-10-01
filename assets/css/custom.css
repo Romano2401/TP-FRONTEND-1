@@ -6,10 +6,41 @@ text-align: center;
 }
 
 header{
-    background-color: rgb(67, 66, 66);
+    background-color: rgb(46, 44, 52);
 }
 
 nav {
     background-color: transparent;
 }
 
+.carousel-caption  {
+    padding-left: 30%;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    text-align: right;
+}
+
+.carousel-caption h6 {;
+    font-size: 26pt;
+
+}
+.carousel-caption p {
+    font-size: 15pt;
+
+}
+.carousel-item img { 
+filter: brightness(0.5);
+}
+.card {
+height: 30em;
+
+}
+
+#cartas {
+margin: auto 15%;
+align-items: center;
+}
+#cartas .card {
+width: 100%;
+
+}
