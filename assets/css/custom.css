@@ -1,5 +1,4 @@
 footer {
-    height: 4em;
     background: rgb(8,82,98);
 background: linear-gradient(90deg, rgba(8,82,98,1) 18%, rgba(9,102,121,1) 49%, rgba(20,128,150,1) 71%);
 text-align: center;
@@ -21,11 +20,13 @@ nav {
 }
 
 .carousel-caption h6 {
-    font-size: 26pt;
+    font-size: 9vw;
+    font-size: 9vh;
 
 }
 .carousel-caption p {
-    font-size: 15pt;
+    font-size: 3vw;
+    font-size: 3vh;
 
 }
 .carousel-item img { 
@@ -47,8 +48,8 @@ color: white;
 
 }
 .card-body h6 {
-    font-size: 20pt;
-}
+    font-size: 7vw;
+    font-size: 7vh;}
 
 .charla {
     text-decoration-line: underline;
@@ -58,4 +59,3 @@ color: white;
 #formulario {
     width: 50%;
 }
-
