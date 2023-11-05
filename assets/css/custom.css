@@ -64,3 +64,16 @@ color: white;
 #formulario {
     width: 50%;
 }
+
+#columnas {
+    width: fit-content;
+
+}
+
+#precio {
+background-color: rgba(133, 198, 244, 0.863);
+color: blue;
+font-size: medium;
+
+
+}
